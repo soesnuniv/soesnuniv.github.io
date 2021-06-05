@@ -1,2 +1,1 @@
-# This is my first Website
-Hut Bara
+Official Website for School of Engineering
